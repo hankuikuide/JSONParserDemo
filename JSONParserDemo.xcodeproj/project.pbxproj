@@ -21,6 +21,7 @@
 		11921E901AE641D9008B47DA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11921E721AE641D9008B47DA /* UIKit.framework */; };
 		11921E981AE641D9008B47DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 11921E961AE641D9008B47DA /* InfoPlist.strings */; };
 		11921E9A1AE641D9008B47DA /* JSONParserDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 11921E991AE641D9008B47DA /* JSONParserDemoTests.m */; };
+		11921EA41AE642C9008B47DA /* sample in Resources */ = {isa = PBXBuildFile; fileRef = 11921EA31AE642C9008B47DA /* sample */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		11921E951AE641D9008B47DA /* JSONParserDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JSONParserDemoTests-Info.plist"; sourceTree = "<group>"; };
 		11921E971AE641D9008B47DA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		11921E991AE641D9008B47DA /* JSONParserDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JSONParserDemoTests.m; sourceTree = "<group>"; };
+		11921EA31AE642C9008B47DA /* sample */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sample; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 				11921E841AE641D9008B47DA /* ViewController.m */,
 				11921E861AE641D9008B47DA /* Images.xcassets */,
 				11921E751AE641D9008B47DA /* Supporting Files */,
+				11921EA31AE642C9008B47DA /* sample */,
 			);
 			path = JSONParserDemo;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11921EA41AE642C9008B47DA /* sample in Resources */,
 				11921E871AE641D9008B47DA /* Images.xcassets in Resources */,
 				11921E791AE641D9008B47DA /* InfoPlist.strings in Resources */,
 				11921E821AE641D9008B47DA /* Main.storyboard in Resources */,
